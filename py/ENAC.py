@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # _*_coding:utf-8_*_
-
 import re, sys, os, platform
 from collections import Counter
 import argparse
