@@ -24,3 +24,6 @@ scikit-learn (tested 0.22.1)
 'My Final Model.ipynb'
 
 'My Final Model.pkl'
+### NOTE:
+For files with different input sequences, you need to pay attention to the modification of parameters in code.
+
