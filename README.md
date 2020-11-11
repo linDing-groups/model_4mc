@@ -22,3 +22,5 @@ scikit-learn (tested 0.22.1)
 'ENAC.py'
 ### Train and load model by using:
 'My Final Model.ipynb'
+
+'My Final Model.pkl'
