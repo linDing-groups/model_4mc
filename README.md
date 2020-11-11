@@ -13,3 +13,8 @@ pandas (tested 1.0.1)
 jupyter (tested 1.0.0)
 
 scikit-learn (tested 0.22.1)
+# Usage
+## Generate features using
+'K-mer.py'
+'CKSNAP.py'
+'ENAC.py'
