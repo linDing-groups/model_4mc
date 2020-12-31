@@ -7,6 +7,9 @@ from sklearn.model_Selection import train_test_split
 from sklearn.model_Selection import GridSearchCV
 from sklearn.preprocessing import StandardScalar
 
+start_time = time.time()
+
+#import data
 df=pd.read_csv('120.csv')
 df
 #separating labels and features
