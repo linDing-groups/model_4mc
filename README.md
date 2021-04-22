@@ -26,4 +26,5 @@ scikit-learn (tested 0.22.1)
 'My Final Model.pkl'
 ### NOTE:
 For files with different input sequences, you need to pay attention to the modification of parameters in code.
-
+## Citation:
+H. Zulfiqar, R.S. Khan, F. Hassan, K. Hippe, C. Hunt, H. Ding, X.M. Song, R. Cao, Computational identification of N4-methylcytosine sites in the mouse genome with machine-learning method, Math. Biosci. Eng., 18 (2021), 3348-3363. doi: 10.3934/mbe.2021167
